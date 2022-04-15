@@ -1,2 +1,2 @@
 # printf
-# This is our printf function recoded from scratch
+This is our printf function recoded from scratch
